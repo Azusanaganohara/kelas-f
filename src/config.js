@@ -13,10 +13,10 @@ module.exports = {
 
     api: {
         lavalink: {
-            host: 'lava-v3.ajieblogs.eu.org',
-            port: 443,
-            password: 'https://dsc.gg/ajidevserver',
-            secure: true
+            host: 'radiant.outlinkstore.com',
+            port: 25567,
+            password: 'ayakalinks',
+            secure: false
         },
         spotify: {
             id: 'bf94b09d8e9f4505a5126ce17d1858b8',

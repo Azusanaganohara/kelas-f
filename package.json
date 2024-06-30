@@ -24,6 +24,7 @@
     "graphql-request": "^7.0.1",
     "kbbi": "^0.0.4",
     "kbbi.js": "^1.0.6",
+    "lavacord": "^2.1.4-v4",
     "lavalink-client": "^2.2.0",
     "moment": "^2.30.1",
     "moment-timezone": "^0.5.45",
